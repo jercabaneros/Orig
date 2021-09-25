@@ -1,4 +1,4 @@
 # Orig
-E1: Started exercise
-+
-Excited
+E1: Started exercise!
+
+Excited!
