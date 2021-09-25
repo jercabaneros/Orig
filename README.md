@@ -1,3 +1,2 @@
 # Orig
-E1: Started exercise
-Type anything, it will show up!
+E1: Started exercise_1
